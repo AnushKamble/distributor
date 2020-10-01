@@ -1,6 +1,6 @@
 <img alt="Distributor icon" src="https://github.com/10up/distributor/blob/trunk/assets/img/icon.svg" height="45" width="45" align="left">
 
-# Distributor
+# Distributor : The WordPress Plugin
 > Distributor is a WordPress plugin that makes it easy to distribute and reuse content across your websites — whether in a single multisite or across the web.
 
 [![Support Level](https://img.shields.io/badge/support-active-green.svg)](#support-level) [![Build Status](https://travis-ci.org/10up/distributor.svg?branch=trunk)](https://travis-ci.org/10up/distributor)
@@ -27,7 +27,7 @@ _Note:_ The latest stable version of the plugin is the _stable_ branch. [Downloa
 
 ## Features
 
-Distributor supports safe, SEO-friendly content reuse and sharing via "pushing" and "pulling".
+Distributor supports safe and SEO-friendly content reuse and sharing via "pushing" and "pulling".
 
 While logged in and editing or viewing any single post (or custom post type) that can be distributed, a `Distributor` admin bar item will appear, that will facilitate sharing ("pushing") that content to any `connection`.
 
